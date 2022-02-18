@@ -35,7 +35,8 @@ const objPh = {
 
 document.addEventListener('keypress', function(e) {
     var keyTem = {xPos: random(), yPos: 10, xVel: 0, yVel: 0, key: e.key};
-    objects.push(keyTem)
+    objects.push(keyTem);
+    document.getElementById('title').style.opacity = 0;
 })
 
 function random() {
