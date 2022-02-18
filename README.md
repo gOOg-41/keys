@@ -13,4 +13,6 @@ __/\\\________/\\\___________________________________________
 # KEYS
 O `Keys`, tem um controle simples só clique em qualquer tecla e veja ela cair..
 
-**[Poderá ser usado em futuros projetos, tipo um `Wordle`]**
+**[Poderá ser usado em futuros projetos, tipo um `Wordle`]**</summary>
+ 
+*Por enquanto sem spoilers*
